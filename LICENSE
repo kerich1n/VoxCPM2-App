@@ -1,0 +1,17 @@
+MIT License
+
+Copyright (c) 2026 kerich1n
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copi
+cat > ~/VoxCPM2-App/NOTICE << 'EOF'
+本工具使用了 OpenBMB 的 VoxCPM2 模型與程式碼。
+VoxCPM2 由 OpenBMB 開發，採 Apache License 2.0 授權。
+專案網址：https://github.com/OpenBMB/VoxCPM
+模型網址：https://huggingface.co/openbmb/VoxCPM2
+
+This tool uses the VoxCPM2 model and code by OpenBMB,
+licensed under the Apache License 2.0.

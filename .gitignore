@@ -1,0 +1,11 @@
+venv/
+data/
+outputs/
+*.wav
+__pycache__/
+*.pyc
+.DS_Store
+last_update_check.json
+settings.json
+data/profiles.json
+發布.command
